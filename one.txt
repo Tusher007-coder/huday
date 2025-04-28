@@ -1,2 +1,3 @@
 THis is one.txt file.Huday github e rakhlamS
 huday kisu liklam
+added some new text for conflict
